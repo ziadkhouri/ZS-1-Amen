@@ -1,0 +1,36 @@
+----------------------------------
+Zs-1 AMEN b1.0 (C)1998 ZIAD KHOURI
+----------------------------------
+This is a prototype written and distributed as part of my final Year
+project for the UNIVERSITY OF BATH. 
+
+-SYSTEM REQUIREMENTS-
+This program requires DirectX 3.0 or higher
+
+
+-CONTACT-
+This program is currently on hold. If you find the program usefull
+and would like to see it completed please send me an email saying so.
+I would also appreciate any comments or suggestions. Please send 
+email to the following address:
+
+	amenbeta@hotmail.com [no longer active]
+
+-DESCRIPTION-
+Amen has been designed so simplify the process of rearranging waveforms.
+Once loaded, a waveform can be rearranged using the sequence editor (at
+the bottom of the dialog window) or using the sequence generator. The 
+coloured boxes of the sequence editor correspond to the coloured lines
+on the waveform display. These represent offsets from which the sample 
+can be triggered and left to loop naturally. These offsets can be
+selected and repositioned using the mouse. Using the right mousebutton
+will instruct the program to find the closest onset to the point where
+the mousebutton was released. This is done using the volume envelope 
+superimposed in front of the waveform. The window size of this envelope
+can be changed.
+
+Unfortunately there is no other on-line help at this stage. 
+
+-LEGAL NOTICE-
+You use this program at your own risk. I cannot be held for any loss
+or damage caused.

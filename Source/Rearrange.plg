@@ -1,0 +1,34 @@
+--------------------Configuration: Rearrange - Win32 ReleaseDLL--------------------
+Begining build with project "C:\Desktop\Rearrange\Rearrange.dsp", at root.
+Active configuration is Win32 (x86) Application (based on Win32 (x86) Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp"Rearrang/Rearrange.pch" /Yu"stdafx.h" /Fo"Rearrang/" /Fd"Rearrang/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "NDEBUG" /mktyplib203 /o NUL /win32 "
+			"Win32 Resource Compiler" with flags "/l 0x809 /fo"Rearrang/Rearrange.res" /d "NDEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"Rearrang/Rearrange.bsc" "
+			"COFF Linker for 80x86" with flags "dsound.lib winmm.lib /nologo /subsystem:windows /incremental:no /pdb:"Rearrang/Rearrange.pdb" /machine:I386 /out:"Rearrang/Rearrange.exe" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating command line "rc.exe /l 0x809 /fo"Rearrang/Rearrange.res" /d "NDEBUG" "C:\Desktop\Rearrange\Rearrange.rc"" 
+Creating temp file "C:\WINDOWS\TEMP\RSPE001.TMP" with contents <dsound.lib winmm.lib /nologo /subsystem:windows /incremental:no /pdb:"Rearrang/Rearrange.pdb" /machine:I386 /out:"Rearrang/Rearrange.exe" 
+.\Rearrang\ButStop.obj
+.\Rearrang\ButStop2.obj
+.\Rearrang\MainDlg.obj
+.\Rearrang\OffsetWnd.obj
+.\Rearrang\Progress.obj
+.\Rearrang\Rearrange.obj
+.\Rearrang\RearrangeMain.obj
+.\Rearrang\SequenceGenerator.obj
+.\Rearrang\SequenceWnd.obj
+.\Rearrang\Startup.obj
+.\Rearrang\StdAfx.obj
+.\Rearrang\Rearrange.res>
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSPE001.TMP" 
+Compiling resources...
+Linking...
+
+
+
+Rearrange.exe - 0 error(s), 0 warning(s)
